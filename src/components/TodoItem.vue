@@ -42,7 +42,7 @@ export default {
         background:#ff0000;
         color: #fff;
         border: none;
-        padding: 2px 6  px;
+        padding: 2px 6px;
         border-radius: 50%;
         cursor: pointer;
         float:right;
